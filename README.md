@@ -1,6 +1,6 @@
 👋 Hi, I'm Peter Iguru
 
-🎓 Computer Science & Mathematics student at Zetech University  
+🎓 BSC Computer Science & Mathematics
 💡 Aspiring Cloud Engineer | AWS Cloud Practitioner | Systems Support  
 🔧 I love solving real-world problems with tech, especially in IT Support, Data Analysis, and Cloud Infrastructure
 
