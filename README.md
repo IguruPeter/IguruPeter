@@ -36,11 +36,12 @@ Designed intuitive dashboards to transform complex data into easy-to-understand,
 Explored API-based systems and networking strategies to enhance cloud security.
 
 📫 Let’s Connect!
-🌐 Portfolio Site
 
-💼 LinkedIn
+🌐 [Portfolio Site](https://sites.google.com/view/peteriguru/home)
 
-🧠 GitHub
+💼 [LinkedIn](https://chatgpt.com/c/www.linkedin.com/in/peter-iguru)
+
+🧠 [GitHub](https://github.com/IguruPeter)
 
 📧 Email: igurupeter@gmail.com
 📱 Phone: 0799588914
