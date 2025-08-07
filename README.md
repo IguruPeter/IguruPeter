@@ -1,44 +1,48 @@
 👋 Hi, I'm Peter Iguru
+🎓 BSc in Computer Science & Mathematics
+💡 Aspiring Cloud Engineer | AWS Cloud Practitioner | Systems Support Enthusiast | Data Lover
 
-🎓 BSC Computer Science & Mathematics
-💡 Aspiring Cloud Engineer | AWS Cloud Practitioner | Systems Support  
-🔧 I love solving real-world problems with tech, especially in IT Support, Data Analysis, and Cloud Infrastructure
+I am passionate about leveraging technology to create innovative solutions that improve lives. With hands-on experience in IT Support, Data Analysis, and Cloud Computing (AWS), I thrive in collaborative environments, where I can troubleshoot, analyze, and implement tech solutions that drive business transformation. My love for data fuels my ability to turn raw information into actionable insights.
 
-💡 About Me
-I am passionate about leveraging technology to develop solutions that enhance everyday life.  
-With experience in IT support, data analysis, and cloud computing (AWS).  
-I enjoy working across teams to troubleshoot, analyze, and innovate.
+🔧 Core Interests
+Cloud Infrastructure: AWS EC2, IAM, S3
 
-Core Interests:
-- Cloud Infrastructure (AWS EC2, IAM, S3)
-- System Setup & Support
-- Data Science and Analysis with visualization tools
-- Digital Transformation & UX Feedback
-  
-🔨 Skills & Tools
-- 💻 Languages: Python, JavaScript, HTML/CSS
-- ☁️ Cloud: AWS (CCP, SAA Track), EC2, S3, IAM
-- 📊 Data: Power BI, Excel, SQL
-- 🛠️ Tools: Git, GitHub, VS Code, Linux
+Systems Setup & Support
 
-🚀 Projects
-🤖  UX Research – Bribo Innovation Hub  
-   Supported development, tested features, gave UX feedback, and participated in research documentation.
-  
-📊 Visualization Dashboards  
-   Created dashboards to analyze and present data in clear and actionable formats.
+Data Science & Analysis: Data visualization, statistical analysis, and turning data into insights
 
-🛡️ SecureIT Networking Essentials & DevNet  
-   Exploring networking and API-based systems to better secure cloud environments.
+Digital Transformation & UX Feedback
 
+🚀 Skills & Tools
+Programming Languages: Python, JavaScript, HTML/CSS
+
+Cloud: AWS (CCP, SAA Track), EC2, S3, IAM
+
+Data Tools: Power BI, Excel, SQL
+
+Development Tools: Git, GitHub, VS Code, Linux
+
+📂 Featured Projects
+🤖 UX Research – Bribo Innovation Hub
+
+Played a key role in feature testing, providing UX feedback, and contributing to research documentation.
+
+📊 Visualization Dashboards
+
+Designed intuitive dashboards to transform complex data into easy-to-understand, actionable insights.
+
+🛡️ SecureIT Networking Essentials & DevNet
+
+Explored API-based systems and networking strategies to enhance cloud security.
 
 📫 Let’s Connect!
-- 🌐 Portfolio Site ((https://sites.google.com/view/peteriguru/home))
-- 💼 LinkedIn (www.linkedin.com/in/peter-iguru)
-- 🧠 GitHub Projects(https://github.com/IguruPeter)
+🌐 Portfolio Site
 
-Email: igurupeter@gmail.com
-Phone number: 0799588914
+💼 LinkedIn
+
+🧠 GitHub
+
+📧 Email: igurupeter@gmail.com
+📱 Phone: 0799588914
 
 🌱 Always learning | 💬 Open to collaboration | 🚀 Building tech for impact
-
